@@ -16,13 +16,16 @@ SCISSORS BEATS PAPER
 """
 
 if(user_choice == computer_choice):
-    print("match is tie")
+    print("match is tie!")
 
 elif(user_choice == "stone" and computer_choice == "scissor"):
-    print("you win the match")
+    print("you win the match!")
 
 elif(user_choice == "paper" and computer_choice == "stone" ):
-    print("you win the match")
+    print("you win the match!")
 
 elif(user_choice == "scissor" and computer_choice == "paper"):
-    print("you win the match")
+    print("you win the match!")
+
+
+print("want to play again!")

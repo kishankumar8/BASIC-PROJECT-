@@ -29,4 +29,7 @@ while True : # when condition is true then loops is start to work
     else:
         print(f"congratulation! you Guessed the number right in {attempts} attempts")    
 
+
         break
+
+print ("want to play again!")

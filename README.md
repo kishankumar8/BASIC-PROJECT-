@@ -1,6 +1,6 @@
 # BASIC PROJECT 
-IN THIS REPOSITORY I AM DOING ONLY BASIC LEVEL OF PROJECTS USING PYTHON LANGUAGE.
+In This Repository I AM Doing Only Basic Level Of Projects Using Python Language.
 
-THIS SHORT DESCRIPTION  FOR NUMBER GUESSING GAME
+This Short Description For Number Gussing Game.
 
 A Python console game that challenges users to guess a randomly generated number, providing feedback on each attempt until the correct guess is made.

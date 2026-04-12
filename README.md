@@ -5,4 +5,4 @@ In This Repository I AM Doing Only Basic Level Of Projects Using Python Language
 
 A Python console game that challenges users to guess a randomly generated number, providing feedback on each attempt until the correct guess is made.
 
-#2-> SPS GAME
+#2-> S,P,S GAME

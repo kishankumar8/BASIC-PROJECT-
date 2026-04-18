@@ -1,5 +1,5 @@
 # BASIC PROJECT USING PYTHON
-In This Repository I AM Doing Only Basic Level Of Projects Using Python Language.
+In This Repository I AM Upload Only Basic Level Of Projects Using Python Language.
 
 #1->  Number Gussing Game.
 

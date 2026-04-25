@@ -8,3 +8,4 @@ A Python console game that challenges users to guess a randomly generated number
 #2->  stone,paper,scissor game.
 
 A game using python with simple and easy rules.
+

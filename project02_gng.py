@@ -8,7 +8,7 @@ attempts = 0
 
 print("WELCOME TO THE NUMBER GUESSING GAME!")
 
-print("I Am thinking a Number between  1 to 100 and "
+print("Computer thinking a Number between  1 to 100 and "
 "you Guess the Number")
 
 

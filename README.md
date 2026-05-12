@@ -19,3 +19,4 @@ A game using python with simple and easy rules.
 Using more loops for check the condition(rules).
 
 
+!

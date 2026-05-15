@@ -16,7 +16,7 @@ A Python console game that challenges users to guess a randomly generated number
 A game using python with simple and easy rules.
 
 
-Using more loops for check the condition(rules).
+Using more loops for check the condition (rules).
 
 
 !

@@ -20,4 +20,3 @@ Using more loops for check the condition (rules).
 
 
 
-!

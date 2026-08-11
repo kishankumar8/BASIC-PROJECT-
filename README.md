@@ -19,6 +19,6 @@ A game using python with simple and easy rules.
 Using more loops for check the condition (rules).
 
 
-# 3 -> Password genertor .
+# 3 -> Password generator .
 
 In this password generator uses simple level of python and random library .

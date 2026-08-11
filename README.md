@@ -21,4 +21,4 @@ Using more loops for check the condition (rules).
 
 # 3 -> Password genertor .
 
-In this password generator
+In this password generator uses simple level of python and random library .

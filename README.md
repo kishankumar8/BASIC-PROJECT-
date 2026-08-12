@@ -21,4 +21,4 @@ Using more loops for check the condition (rules).
 
 # 3 -> Password generator .
 
-In this project  i uses simple level of python and random library (for randomly select any number)for making password generator .
+In this project  i uses simple level of python and random library (for randomly select any  from symbol)for making password generator .
